@@ -1,0 +1,53 @@
+136  mkdir 20230605-LuisRuiz
+  137  gir init
+  138  git init
+  139  git remote add origin https://github.com/luchitoruiz/20230605-LuisRuiz.git
+  140  git branch -m main
+  141  cd 20230605-LuisRuiz/
+  142  touch comandos.txt main.js index.html
+  143  git commit -m "commit 01 de LuisRuiz"
+  144  git add .
+  145  git commit -m "commit 01 de LuisRuiz"
+  146  git status
+  147  git push origin main
+  148  git branch feature01
+  149  git branch feature02
+  150  git branch
+  151  git branch checkout feature01
+  152  git branch
+  153  git branch --delete checkout
+  154  git branch
+  155  git checkout feature01
+  156  mkdir terminal hardware
+  157  ls
+  158  touch resumen.txt hardware/
+  159  resumencd hardware/
+  160  cd hardware/
+  161  ls
+  162  touch resumen.txt
+  163  cd ..
+  164  rm resumen.txt
+  165  cd terminal/
+  166  touch resumen.txt
+  167  it status
+  168  git status
+  169  git add .
+  170  git status
+  171  cd ..
+  172  git status
+  173  git add .
+  174  git status
+  175  git commit -m "commit 02 de Luis Ruiz"
+  176  git push origin feature01
+  177  git checkout feature02
+  178  git checkout feature02
+  179  git checkout feature01
+  180  git branch --delete feature02
+  181  git branch feature02
+  182  git checkout feature02
+  183  git status
+  184  git add .
+  185  git status
+  186  git commit -m "commit 03 de LuisRuiz"
+  187  mv comandos.txt comandosUtilizados.txt
+  188  history
